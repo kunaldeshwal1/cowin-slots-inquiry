@@ -1,4 +1,4 @@
-This cli will show you all available centers in your area by providing your address information.
+This CLI will show you all available centers in your area by providing your location, If slots are available at your location then it will notify you by a message.
 
 -->/cowin/src --Locate to this path in your system.
 
