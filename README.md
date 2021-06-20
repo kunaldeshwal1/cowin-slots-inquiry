@@ -1,5 +1,12 @@
 This CLI will show you all available centers in your area by providing your location, If slots are available at your location then it will notify you by a message.
 
+Prerequisite: You must have installed nodejs ,npm, and installed some tools by running 
+
+"npm install axios chalk commander inquirer node-notifier tty-table"
+
+command in CLI.
+
+
 -->/cowin/src --Locate to this path in your system.
 
 --> Commands:
